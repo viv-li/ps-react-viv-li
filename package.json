@@ -127,6 +127,7 @@
     "chokidar": "^1.6.1",
     "npm-run-all": "^4.0.2",
     "prop-types": "^15.7.2",
+    "react-addons-test-utils": "^15.5.1",
     "react-docgen": "^2.14.0"
   }
 }
